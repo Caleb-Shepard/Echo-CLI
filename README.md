@@ -33,7 +33,7 @@ python3 server.py
 * Python3
 
 # Voice Commands
-"None yet" <br />
+None yet <br />
 
 # Version 0.1.0 - Pre-Alpha
 Initial Release - None yet <br />
